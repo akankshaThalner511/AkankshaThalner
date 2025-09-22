@@ -1,4 +1,3 @@
-I can create a sorted and sweet GitHub README file that introduces you. Here's a concise and professional README you can use.
 
 👋 Hi there, I'm Akanksha Thalner
 A passionate 
