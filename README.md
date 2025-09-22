@@ -1,4 +1,5 @@
-👋Hi, I'm Akanksha Thalner </br>
+</br>
+👋 Hi, I'm Akanksha Thalner </br>
 A passionate Java Spring Boot Developer and Trainer with hands-on experience in backend development. I am skilled in building scalable software solutions and secure APIs. My goal is to contribute my expertise to challenging roles while fostering team collaboration.
 </br></br>
 📈 My GitHub Status
@@ -8,20 +9,40 @@ A passionate Java Spring Boot Developer and Trainer with hands-on experience in 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akankshaThalner511&theme=dark" alt="Akanksha's GitHub Streak">
 </p>
 </br></br>
-💻 My Core Skills
+💻 My Core Skills </br>
+Programming Languages: Java (OOP, Arrays, Strings, Exception Handling, Multithreading, Collections, Java 8, JDBC), C, SQL/PLSQL
+
+Frameworks & Libraries:
 <p align="left">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java badge">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot badge">
-<img src="https://img.shields.io/badge/Microservices-3498DB?style=for-the-badge&logo=micro-services&logoColor=white" alt="Microservices badge">
-<img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=rest&logoColor=white" alt="REST API badge">
+<img src="https://img.shields.io/badge/Spring_Core-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Core badge">
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate badge">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS badge">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira badge">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger badge">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React badge">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular badge">
 </p>
-</br></br>
-💼 Experience & Projects</br>
+
+Web Technologies: HTML, CSS, JavaScript
+
+Databases:
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle badge">
+</p>
+
+Tools & Platforms:
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman badge">
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit badge">
+<img src="https://img.shields.io/badge/Mockito-FFC000?style=for-the-badge&logo=mockito&logoColor=white" alt="Mockito badge">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger badge">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira badge">
+</p>
+
+Soft Skills: Problem Solving, Designing, Communication, Teamwork, DSA
+</br></br></br>
+💼 Experience & Projects
 Associate Software Engineer | Bhasaka Technologies
 
 Contributed to enterprise web applications for Brunswick Corporation.
@@ -44,13 +65,13 @@ A secure and scalable payment system developed in a microservices architecture.
 
 Integrated Trustly Deposit API, implemented payment tracking, and built a robust error handling system.
 </br></br>
-Bookstore Web Application</br>
+Bookstore Web Application
 
 A full-stack application with secure CRUD operations using Java, Spring Boot, JPA, and REST APIs.
 
 Followed a layered architecture and integrated Swagger for API documentation.
 </br></br></br>
-🏆 Achievements</br>
+🏆 Achievements
 Problem-Solving Competition - PINNACLE 2022: Cleared all three rounds of a Java coding contest.
 
 Quiz Competition - KnowaTech 2022: Advanced through group and individual rounds in a C & Java Web Tech quiz.
@@ -65,3 +86,12 @@ Academic Excellence: Secured a 9.71 CGPA in the 3rd Year, 2nd Semester.
 </p>
 
 Email: akankshathalner@gmail.com
+
+
+
+
+
+
+
+
+
