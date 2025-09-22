@@ -64,14 +64,14 @@ Core Payment Integration System
 A secure and scalable payment system developed in a microservices architecture.
 
 Integrated Trustly Deposit API, implemented payment tracking, and built a robust error handling system.
-</br></br>
+</br></br></br>
 Bookstore Web Application
 
 A full-stack application with secure CRUD operations using Java, Spring Boot, JPA, and REST APIs.
 
 Followed a layered architecture and integrated Swagger for API documentation.
 </br></br></br>
-🏆 Achievements
+🏆 Achievements </br>
 Problem-Solving Competition - PINNACLE 2022: Cleared all three rounds of a Java coding contest.
 
 Quiz Competition - KnowaTech 2022: Advanced through group and individual rounds in a C & Java Web Tech quiz.
