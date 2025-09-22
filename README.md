@@ -1,20 +1,11 @@
-
-
-
-
-
-
-Hi there 👋, I'm Akanksha Thalner
-
-
+👋 Hi , I'm Akanksha Thalner
 
 
 A passionate 
 
-Java Spring Boot Developer and Trainer with hands-on experience in backend development. I am skilled in building scalable software solutions and secure APIs. My goal is to contribute my technical expertise to challenging roles while fostering team collaboration.
+Java Spring Boot Developer and Trainer with hands-on experience in backend development. I'm skilled in building 
 
-
-
+scalable software solutions, developing secure APIs, and mentoring learners. My goal is to contribute my expertise to challenging roles while fostering team collaboration.
 
 
 
@@ -41,15 +32,19 @@ Associate Software Engineer | Bhasaka Technologies
 
 Contributed to enterprise web applications for Brunswick Corporation.
 
+Designed and implemented components, templates, and dialogs in 
+
+AEM.
+
 Developed and optimized 
 
 REST APIs and backend processes for performance and scalability.
 
 Java Developer Trainee | HulkHire Tech
 
-Contributed to a Payment Integration System using 
+Contributed to a 
 
-Java Spring Boot microservices on AWS.
+Payment Integration System using Java Spring Boot microservices on AWS.
 
 Built a validation framework with 
 
@@ -57,13 +52,18 @@ Redis Cache and secured APIs using HmacSHA256 & RSA.
 
 Applied 
 
-Spring Security and deployed services on AWS EC2/RDS.
+Spring Security, and deployed services on AWS EC2/RDS.
 
 Core Payment Integration System
 
-A secure and scalable payment integration system using 
+A secure and scalable payment system developed in a 
 
-Java Spring Boot in a microservices architecture hosted on AWS.
+microservices architecture.
+
+Integrated 
+
+Trustly Deposit API, implemented payment tracking, and built a robust error handling system.
+
 
 
 
@@ -72,11 +72,13 @@ Java Spring Boot in a microservices architecture hosted on AWS.
 
 Bookstore Web Application
 
-Developed a full-stack bookstore application using 
+A full-stack application with 
 
-Java, Spring Boot, JPA, and REST APIs.
+secure CRUD operations using Java, Spring Boot, JPA, and REST APIs.
 
+Followed a layered architecture and integrated 
 
+Swagger for API documentation.
 
 
 
@@ -84,10 +86,10 @@ Java, Spring Boot, JPA, and REST APIs.
 
 🏆 Achievements
 
-Problem-Solving Competition - PINNACLE 2022: Cleared all 3 rounds of a Java coding contest.
+Problem-Solving Competition - PINNACLE 2022: Cleared all three rounds of a Java coding contest.
 
 
-Quiz Competition - KnowaTech 2022: Advanced through group and individual rounds in C & Java Web Tech quiz.
+Quiz Competition - KnowaTech 2022: Advanced through group and individual rounds in a C & Java Web Tech quiz.
 
 
 Academic Excellence: Secured a 9.71 CGPA in the 3rd Year, 2nd Semester.
@@ -96,15 +98,13 @@ Academic Excellence: Secured a 9.71 CGPA in the 3rd Year, 2nd Semester.
 
 
 
+
 📫 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/akankshathalner" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://github.com/akankshathalner" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+<a href="https://akankshathalner-portfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-akankshathalner.netlify.app-blue?style=for-the-badge&logo=vercel" alt="Portfolio Badge"></a>
+</p>
+
 
 Email: akankshathalner@gmail.com 
-
-
-LinkedIn: akankshathalner 
-
-
-GitHub: akankshathalner 
-
-
-Portfolio: akankshathalner-portfolio.netlify.app 
