@@ -6,9 +6,9 @@ A passionate Java Spring Boot Developer and Trainer with hands-on experience in 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=akankshaThalner511&show_icons=true&theme=dark" alt="Akanksha's GitHub Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshaThalner511&layout=compact&theme=dark" alt="Akanksha's Top Languages">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akankshaThalner511&theme=dark" alt="Akanksha's GitHub Streak">
-  <img src="https://streak-stats.demolab.com?user=akankshaThalner511&theme=dark" alt="Akanksha's GitHub Streak">
-  <img src="https://streak-stats.demolab.com?user=akankshaThalner511&theme=dark" alt="Akanksha's GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akankshaThalner511&theme=dark" alt="1">
+<img src="https://streak-stats.demolab.com?user=akankshaThalner511&theme=dark" alt="2">
+<img src="https://streak-stats.demolab.com?user=akankshaThalner511&theme=dark" alt="3">
 
 
 </p>
