@@ -65,7 +65,7 @@ Core Payment Integration System
 A secure and scalable payment system developed in a microservices architecture.
 
 Integrated Trustly Deposit API, implemented payment tracking, and built a robust error handling system.
-</br></br></br>
+</br></br></br></br>
 Bookstore Web Application
 
 A full-stack application with secure CRUD operations using Java, Spring Boot, JPA, and REST APIs.
